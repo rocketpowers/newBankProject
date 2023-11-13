@@ -1,0 +1,9 @@
+implementar tipo de conta junto ao nome da conta
+
+
+implementar:
+implementar validacoes
+seguranca
+swagger
+j unit/mockito
+refaturar o cod.
